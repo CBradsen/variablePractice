@@ -12,5 +12,6 @@ funny = "ChaoBabe"
 cat = "Perry"
 console.log(cat)
 console.log(e)
-
+console.log(name)
+console.log(funny)
 
