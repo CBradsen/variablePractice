@@ -7,5 +7,10 @@ var s = 5.9
 var isElizabethACat = false
 var bookiniASwimsuit = true
 var squigglesIsACat = true
+name = "Susanna"
+funny = "ChaoBabe"
+cat = "Perry"
+console.log(cat)
+console.log(e)
 
 
